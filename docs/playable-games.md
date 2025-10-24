@@ -10,12 +10,14 @@
 | Forza Horizon 2 Demo        | Does not run    |               |                                                                                                                                                       |
 | Forza Horizon 2 F&F         | Does not run    |               |                                                                                     |
 | Forza Motorsport 5          | Does not run    |               |                                                                                     |
+| FRU          | Does not run    |               |                                                                                     |
 | Lego Dimensions             | Does not run    |               |                                                                                     |
 | MGSV: Ground Zeroes         | Does not run    |               |                                                                                     |
 | Minecraft: Xbox One Edition | Playable        |               |                                                                                     |
 | Stardew Valley              | Does not run    |               |                                                                                     |
 | Shovel Knight               | Does not run    |               |                                                                                     |
 | Sonic Mania                 | Title Screen    | Not merged    |                                                                                     |
+| Space Jam: A New Legacy - The Game          | Does not run    |               |                                                                                     |
 | Terraria                    | Does not run    |               |                                                                                     |
 | The Escapists               | Title Screen    | Not merged    | No Audio, Error Thrown when Press Play                                              |
 | Trackmania (2020)           | Does not run    |               |                                                                                     |
